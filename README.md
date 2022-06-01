@@ -1,4 +1,4 @@
-# Amazing CS 1.6
+# Amazing CS 1.6 in Docker-Compose
 [![Latest AMAZING_CS16](https://img.shields.io/github/v/release/inquisitor-4/amazing_cs16)](https://github.com/inquisitor-4/amazing_cs16/releases/latest) 
 [![Latest AMAZING_CS1.6](https://github.com/inquisitor-4/amazing_cs16/workflows/build/badge.svg)](https://github.com/inquisitor-4/amazing_cs16/actions) 
 [![GPLv2 License](https://img.shields.io/github/license/inquisitor-4/amazing_cs16)](https://github.com/inquisitor-4/amazing_cs16/blob/master/LICENSE) 
