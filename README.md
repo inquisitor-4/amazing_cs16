@@ -108,5 +108,3 @@ To get started you need:
 3. Для остановки сервера `make docker-down`
 4. Для остановки сервера с очисткой мусора `make docker-down-clear`
 5. Для очистки всего мусора `make docker-clear-all`, но сначала пункт 3
-
-Спасибо за Внимание!
