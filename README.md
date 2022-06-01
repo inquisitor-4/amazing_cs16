@@ -1,6 +1,5 @@
 # Amazing CS 1.6 in Docker-Compose
 [![GPLv2 License](https://img.shields.io/github/license/inquisitor-4/amazing_cs16_docker)](https://github.com/inquisitor-4/amazing_cs16_docker/blob/master/LICENSE) 
-[![Downloads](https://img.shields.io/github/downloads/inquisitor-4/amazing_cs16_docker/total)](https://github.com/inquisitor-4/amazing_cs16_docker/releases/latest)
 
 ## ☉ Documentation & About ☉ ##
 
